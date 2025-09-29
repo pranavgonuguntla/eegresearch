@@ -1,0 +1,33 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+tensorflow>=2.10.0
+torch>=1.12.0
+torchvision>=0.13.0
+
+# EEG Specific Libraries
+mne>=1.0.0
+PyWavelets>=1.3.0
+
+# Signal Processing
+librosa>=0.9.0
+
+# Visualization
+plotly>=5.10.0
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipywidgets>=7.7.0
+tqdm>=4.64.0
+
+# Explainable AI
+shap>=0.41.0
+
+# Additional Utilities
+joblib>=1.2.0
